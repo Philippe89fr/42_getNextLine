@@ -8,6 +8,7 @@ Part of 42 Common Core.
 
 # Main Technologies / Skills Used:
 
+- **Programming Languages: C**
 - **Static Variables:** Understanding persistent state between function calls
 - **Buffer Management:** Efficient reading and storing of file data with configurable buffer sizes
 - **File Descriptor Management:** Low-level file handling using read() system call
